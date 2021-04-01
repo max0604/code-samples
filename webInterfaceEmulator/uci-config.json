@@ -1,0 +1,12 @@
+{
+    "command": "write_config",
+    
+    "network": [
+        {
+            "interface" : {
+                "device": "12345",
+                "mode": "bla-bla"
+            }
+        }
+    ]
+}
